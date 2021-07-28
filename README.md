@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alejandromarano
+- 👀 I’m interested in Containers (Docker) and Kubernetes, C and Bash Programming.
+- 🌱 I’m currently learning Kubernetes.
+- 💞️ I’m looking to collaborate on games servers on Raspberry PI
+- 📫 Mail: alejandromarano08@gmail.com
